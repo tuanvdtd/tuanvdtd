@@ -16,3 +16,11 @@ I'm a Computer Engineering student at Hanoi University of Science and Technology
   <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg" />
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
+
+---
+
+### 📊 GitHub Stats
+![Tuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuanvdtd&show_icons=true&theme=tokyonight)
+
+### 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuanvdtd&layout=compact&theme=tokyonight)
