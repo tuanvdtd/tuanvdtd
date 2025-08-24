@@ -16,6 +16,7 @@ I'm a Computer Engineering student at Hanoi University of Science and Technology
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) 
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-%23000000.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
@@ -48,7 +49,7 @@ I'm a Computer Engineering student at Hanoi University of Science and Technology
 
 ---
 
-### 📊 GitHub Stats
+# 📊 GitHub Stats
 ![Tuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuanvdtd&show_icons=true&theme=tokyonight)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=tuanvdtd&theme=dark&hide_border=false)<br/>
