@@ -52,12 +52,19 @@ I'm a Computer Engineering student at Hanoi University of Science and Technology
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
 
----
 
-# 📊 GitHub Stats
-![Tuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuanvdtd&show_icons=true&theme=tokyonight)
+<h2 align="center">🔥 GitHub Activity 🔥</h2>
+<p >
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tuanvdtd&show_icons=true&theme=tokyonight" />
+</p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=tuanvdtd&theme=dark&hide_border=false)<br/>
+<p >
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tuanvdtd&layout=compact&theme=tokyonight" />
+</p>
 
-### 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuanvdtd&layout=compact&theme=tokyonight)
+<p >
+  <img src="https://streak-stats.demolab.com?user=tuanvdtd&theme=tokyonight" />
+</p>
+
+
+
